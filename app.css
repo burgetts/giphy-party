@@ -1,0 +1,18 @@
+* {
+    text-align: center;
+}
+
+input {
+    height: 50px;
+    width: 300px;
+}
+
+button {
+    height: 50px;
+    width: 75px;
+    font-size: 13px;
+}
+
+img {
+    padding: 30px;
+}
